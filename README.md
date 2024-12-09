@@ -25,5 +25,9 @@ This is a simple and user-friendly **BMI Calculator** web application that calcu
 Feel free to contribute or suggest improvements! 😊  
 ####Demo:
 
+![Screenshot 2024-12-09 172213](https://github.com/user-attachments/assets/fed0db9f-abc4-43fe-a42b-b6c7c575007d)
+Test case-1:
 ![Screenshot 2024-12-09 165910](https://github.com/user-attachments/assets/1e253525-992b-44dd-bdea-00f175dda23d)
+Test case-2:
+![Screenshot 2024-12-09 170251](https://github.com/user-attachments/assets/d6601196-1bbc-43f0-abf7-3bca72b902f8)
 
