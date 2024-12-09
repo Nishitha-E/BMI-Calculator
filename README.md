@@ -1,10 +1,6 @@
-Here's a concise and descriptive text for your GitHub post:
-
----
-
 ### BMI Calculator 🧮
 
-This is a simple and user-friendly **BMI Calculator** web application that calculates your Body Mass Index based on your height, weight, age, and gender. The app provides instant feedback, categorizing your BMI into ranges such as **Underweight**, **Normal Weight**, **Overweight**, or **Obese**.
+This is a simple and user-friendly **BMI Calculator** web application that calculates your Body Mass Index based on your height, weight, age, and gender. The web application provides instant feedback, categorizing your BMI into ranges such as **Underweight**, **Normal Weight**, **Overweight**, or **Obese**.
 
 #### Key Features:
 - **Interactive User Interface**: Built with HTML, CSS, and JavaScript for a seamless experience.
